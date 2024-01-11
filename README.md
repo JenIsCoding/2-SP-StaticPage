@@ -1,4 +1,4 @@
-**Solo Project -- A simple example of a dynamic web page in React + Vite.**
+**Solo Project -- A simple example of a static web page in React + Vite.**
 
 *Solo Project of Part 1 of the React tutorial*
 
