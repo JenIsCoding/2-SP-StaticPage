@@ -1,8 +1,9 @@
-# React + Vite
+**Solo Project -- A simple example of a dynamic web page in React + Vite.**
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+*Solo Project of Part 1 of the React tutorial*
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This is a simple page with some fun facts about Italy. 
+I have structured this simple and static webpage using React's components; they are 3:
+- Header
+- Body content
+- Footer 
